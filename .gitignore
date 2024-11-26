@@ -1,5 +1,5 @@
 /.DS_Store
 /.vscode
-sql_course.session.sql
-create-table
-insert-into
+sql-for-data-analytics/sql_course.session.sql
+sql-for-data-analytics/create-table
+sql-for-data-analytics/insert-into
