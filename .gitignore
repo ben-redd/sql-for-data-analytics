@@ -1,5 +1,5 @@
 /.DS_Store
 /.vscode
-./sql_course.session.sql
-./create-table
-./insert-into
+sql_course.session.sql
+create-table
+insert-into
